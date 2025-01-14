@@ -198,14 +198,60 @@ left: 87px;
     width: 1486px;
 height: 317px;
 border: 2px solid black;
+display: flex;
+gap: 36px;
 }
 .chapter1 {
     width: 719.5px;
 height: 317px;
 border: 2px solid black;
+border-radius: 4px;
+background: rgb(22, 45, 95);
 }
 .chapter2 {
     width: 719.5px;
 height: 317px;
 border: 2px solid black;
+border-radius: 4px;
+background: rgb(22, 45, 95);
+}
+.section13-in h2 {
+    color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 800;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.section13-in p {
+    color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.section13-in h3 {
+    color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.litlle {
+    display: flex;
+    gap: 10px;
+}
+.litlle2 {
+    display: flex;
+    gap: 10px;
+}
+.knopki {
+    width: 407px;
+height: 56px;
+border: 2px solid green;
 }
